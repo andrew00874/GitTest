@@ -2,6 +2,6 @@ include <stdio.h>
 
 int main()
 {
-    printf("hello");
+    printf("No hello");
     return 0;
 }
